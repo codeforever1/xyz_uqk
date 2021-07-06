@@ -20,11 +20,11 @@
     },
     "servers": [
       {
-        "url": "https://UQK.swagger.io/v2",
+        "url": "https://UQK.securoty.io/v2",
         "description": "Development url"
       },
       {
-        "url": "http://UQK.swagger.io/v2",
+        "url": "http://UQK.securoty.io/v2",
         "description": "UAT url"
       }
     ],
